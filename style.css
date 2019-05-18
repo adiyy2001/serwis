@@ -38,16 +38,6 @@ body::-webkit-scrollbar-button:horizontal:increment {
 	-webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.8);
 }
 
-.empty
-{
-    height: calc(100%+1298,4);
-    width: 16px;
-    background-color: #007bff;
-    position: absolute;
-    top: 0%;
-    right: 0.94%;
-    
-}
 header
 {
     position: relative;
